@@ -1,0 +1,4 @@
+[flake8]
+exclude = .git,.venv,venv,__pycache__
+max-line-length = 79
+per-file-ignores = main.py:W292
